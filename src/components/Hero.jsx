@@ -74,7 +74,7 @@ function Hero() {
           <div className={styles.imageContainer}>
             <div className={styles.imageWrapper}>
               <img
-                src="./public/assets/GrimaldoPhotoProfile.jpg"
+                src="./assets/GrimaldoPhotoProfile.jpg"
                 alt="Grimaldo Sanchez"
                 className={styles.profileImage}
               />
