@@ -1,12 +1,44 @@
-# React + Vite
+# 🧑‍💻 Grimaldo Sánchez - Portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi portafolio personal de desarrollo frontend.  
+Este sitio fue construido con **React.js**, **CSS Modules** y **Vite**, siguiendo un diseño moderno, limpio y responsivo.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías utilizadas
 
-## Expanding the ESLint configuration
+- React.js
+- Vite
+- CSS Modules
+- Git + GitHub
+- Vercel (Deploy)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Secciones del portafolio
+
+- **Hero** – Introducción, saludo y llamada a la acción
+- **Projects** – Lista de proyectos destacados con descripción y enlaces
+- **Skills** – Tecnologías que manejo actualmente
+- **Contact** – Iconos directos a mis redes profesionales
+
+---
+
+## 🌐 Sitio desplegado
+
+👉 [Ver Portafolio Online](https://grimaldo-portafolio.vercel.app)
+
+---
+
+## 📫 Contacto
+
+- ✉️ grimaldos.dev@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/grimaldo-sanchez-571788231/)
+- 🐙 [GitHub](https://github.com/Grima21)
+
+---
+
+## 📌 Notas
+
+Este proyecto fue desarrollado como práctica de diseño frontend y presentación profesional.  
+Se mantendrá actualizado con nuevos proyectos y mejoras UI/UX.
