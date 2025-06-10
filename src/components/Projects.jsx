@@ -6,7 +6,7 @@ export default function Projects() {
       title: "Generador de Frases",
       description:
         "App que muestra frases aleatorias y permite guardarlas para inspiración diaria.",
-      image: "./src/assets/Miscontactos.png",
+      image: "./public/assets/Miscontactos.png",
       technologies: ["React", "CSS Modules", "Local Storage"],
       demoUrl: "#",
       codeUrl: "#",
@@ -15,7 +15,7 @@ export default function Projects() {
       title: "Dashboard Moderno",
       description:
         "Panel de control con gráficos interactivos y diseño responsive.",
-      image: "./src/assets/Miscontactos.png",
+      image: "./public/assets/Miscontactos.png",
       technologies: ["React", "Chart.js", "Tailwind CSS"],
       demoUrl: "#",
       codeUrl: "#",
@@ -24,7 +24,7 @@ export default function Projects() {
       title: "Landing Page",
       description:
         "Página de aterrizaje moderna con animaciones y diseño atractivo.",
-      image: "./src/assets/Miscontactos.png",
+      image: "./public/assets/Miscontactos.png",
       technologies: ["HTML", "CSS", "JavaScript"],
       demoUrl: "#",
       codeUrl: "#",
@@ -48,7 +48,7 @@ export default function Projects() {
             <div key={index} className={styles.projectCard}>
               <div className={styles.projectImage}>
                 <img
-                  src={project.image || "./src/assets/Miscontactos.png"}
+                  src={project.image || "./public/assets/Miscontactos.png"}
                   alt={project.title}
                   className={styles.image}
                 />

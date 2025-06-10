@@ -18,6 +18,8 @@ function Skills() {
         { name: "Git", icon: "📝" },
         { name: "GitHub", icon: "🐙" },
         { name: "VSCode", icon: "💻" },
+        { name: "Firebase", icon: "🔥" },
+        { name: "MySQL", icon: "🐬" },
       ],
     },
     {

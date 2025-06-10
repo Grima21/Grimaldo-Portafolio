@@ -30,13 +30,6 @@ Thumbs.db
 *.sln
 *.sw?
 
-# Optional design files
-*.png
-*.jpg
-*.jpeg
-*.webp
-*.psd
-*.fig
 
 # Lock files you don’t use
 yarn.lock
