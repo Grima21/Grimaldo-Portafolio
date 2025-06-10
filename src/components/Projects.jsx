@@ -1,4 +1,4 @@
-import styles from "./projects.module.css";
+import styles from "./Projects.module.css";
 
 export default function Projects() {
   const projects = [
