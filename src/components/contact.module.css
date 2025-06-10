@@ -1,0 +1,95 @@
+.contact {
+  padding: 5rem 1rem;
+  background: #111827;
+  color: white;
+}
+
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  margin-bottom: 4rem;
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.titleAccent {
+  color: #a78bfa;
+}
+
+.subtitle {
+  font-size: 1.25rem;
+  color: #d1d5db;
+  margin-bottom: 2rem;
+}
+
+.contactGrid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-bottom: 4rem;
+}
+
+@media (min-width: 768px) {
+  .contactGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .contactGrid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.contactCard {
+  padding: 1.5rem;
+  background: #1f2937;
+  border-radius: 1rem;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.contactCard:hover {
+  background: #374151;
+  transform: translateY(-2px);
+}
+
+.contactIcon {
+  color: #a78bfa;
+  margin-bottom: 1rem;
+  transition: transform 0.3s ease;
+}
+
+.contactCard:hover .contactIcon {
+  transform: scale(1.1);
+}
+
+.contactTitle {
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.contactSubtitle {
+  font-size: 0.875rem;
+  color: #9ca3af;
+}
+
+.footer {
+  border-top: 1px solid #374151;
+  padding-top: 2rem;
+}
+
+.footerText {
+  color: #9ca3af;
+}
