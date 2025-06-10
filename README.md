@@ -32,7 +32,7 @@ Este sitio fue construido con **React.js**, **CSS Modules** y **Vite**, siguiend
 
 ## 📫 Contacto
 
-- ✉️ grimaldos.dev@gmail.com
+- ✉️ grima2001@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/grimaldo-sanchez-571788231/)
 - 🐙 [GitHub](https://github.com/Grima21)
 
